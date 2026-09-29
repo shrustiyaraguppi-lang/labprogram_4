@@ -5,6 +5,11 @@ b = float(input("Enter second number: "))
 
 addition = a + b
 subtraction = a - b
+multiplication = a*b
+division = a/b
 
 print("Addition =", addition)
-print(subtraction=",subtraction)
+print("Subtraction =",subtraction)
+print("Multiplication =",multiplication)
+print("Division=",multiplication)
+
